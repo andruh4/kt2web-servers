@@ -1,0 +1,135 @@
+The 'Apache2.4' service is restarting.
+Starting the 'Apache2.4' service
+[Sat Dec 13 00:30:36.763612 2025] [mpm_winnt:crit] [pid 14436:tid 472] (OS 2)Не удается найти указанный файл.  : AH00378: Failed to start the 'Apache2.4' service
+Starting the 'Apache2.4' service
+[Sat Dec 13 00:34:47.703859 2025] [mpm_winnt:crit] [pid 18924:tid 448] (OS 2)Не удается найти указанный файл.  : AH00378: Failed to start the 'Apache2.4' service
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+[Sat Dec 13 00:43:05.051154 2025] [ssl:warn] [pid 12160:tid 452] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:43:05.053297 2025] [ssl:warn] [pid 12160:tid 452] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:43:05.053297 2025] [ssl:warn] [pid 12160:tid 452] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 00:43:05.081453 2025] [ssl:warn] [pid 12160:tid 452] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Dec 13 00:43:05.081453 2025] [ssl:warn] [pid 12160:tid 452] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:43:05.082978 2025] [ssl:warn] [pid 12160:tid 452] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:43:05.082978 2025] [ssl:warn] [pid 12160:tid 452] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 00:43:05.083994 2025] [mpm_winnt:notice] [pid 12160:tid 452] AH00455: Apache/2.4.66 (Win64) OpenSSL/3.6.0 configured -- resuming normal operations
+[Sat Dec 13 00:43:05.083994 2025] [mpm_winnt:notice] [pid 12160:tid 452] AH00456: Server built: Dec  6 2025 07:20:52
+[Sat Dec 13 00:43:05.083994 2025] [core:notice] [pid 12160:tid 452] AH00094: Command line: 'httpd.exe -d C:/Apache24-64 -d C:/Apache24-64'
+[Sat Dec 13 00:43:05.089593 2025] [mpm_winnt:notice] [pid 12160:tid 452] AH00418: Parent: Created child process 2108
+Apache server shutdown initiated...
+sl:warn] [pid 2108:tid 476] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:43:05.631521 2025] [ssl:warn] [pid 2108:tid 476] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:43:05.631521 2025] [ssl:warn] [pid 2108:tid 476] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 00:43:05.659428 2025] [ssl:warn] [pid 2108:tid 476] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Dec 13 00:43:05.660429 2025] [ssl:warn] [pid 2108:tid 476] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:43:05.661430 2025] [ssl:warn] [pid 2108:tid 476] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:43:05.661430 2025] [ssl:warn] [pid 2108:tid 476] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 00:43:05.665067 2025] [mpm_winnt:notice] [pid 2108:tid 476] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 13 00:49:03.406822 2025] [mpm_winnt:notice] [pid 12160:tid 452] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 13 00:49:05.407820 2025] [mpm_winnt:notice] [pid 2108:tid 476] AH00364: Child: All worker threads have exited.
+[Sat Dec 13 00:49:05.423675 2025] [mpm_winnt:notice] [pid 12160:tid 452] AH00430: Parent: Child process 2108 exited successfully.
+[Sat Dec 13 00:49:48.781020 2025] [ssl:warn] [pid 11492:tid 452] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:49:48.783049 2025] [ssl:warn] [pid 11492:tid 452] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:49:48.783049 2025] [ssl:warn] [pid 11492:tid 452] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 00:49:48.811063 2025] [ssl:warn] [pid 11492:tid 452] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Dec 13 00:49:48.812064 2025] [ssl:warn] [pid 11492:tid 452] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:49:48.813065 2025] [ssl:warn] [pid 11492:tid 452] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:49:48.813065 2025] [ssl:warn] [pid 11492:tid 452] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 00:49:48.813065 2025] [mpm_winnt:notice] [pid 11492:tid 452] AH00455: Apache/2.4.66 (Win64) OpenSSL/3.6.0 configured -- resuming normal operations
+[Sat Dec 13 00:49:48.813065 2025] [mpm_winnt:notice] [pid 11492:tid 452] AH00456: Server built: Dec  6 2025 07:20:52
+[Sat Dec 13 00:49:48.813065 2025] [core:notice] [pid 11492:tid 452] AH00094: Command line: 'httpd.exe -d C:/Apache24-64 -d C:/Apache24-64'
+[Sat Dec 13 00:49:48.819278 2025] [mpm_winnt:notice] [pid 11492:tid 452] AH00418: Parent: Created child process 14284
+Apache server shutdown initiated...
+sl:warn] [pid 14284:tid 468] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:49:49.361479 2025] [ssl:warn] [pid 14284:tid 468] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:49:49.361479 2025] [ssl:warn] [pid 14284:tid 468] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 00:49:49.387694 2025] [ssl:warn] [pid 14284:tid 468] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Dec 13 00:49:49.388695 2025] [ssl:warn] [pid 14284:tid 468] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:49:49.389696 2025] [ssl:warn] [pid 14284:tid 468] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:49:49.389696 2025] [ssl:warn] [pid 14284:tid 468] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 00:49:49.393401 2025] [mpm_winnt:notice] [pid 14284:tid 468] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 13 00:50:31.285502 2025] [mpm_winnt:notice] [pid 11492:tid 452] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 13 00:50:33.286099 2025] [mpm_winnt:notice] [pid 14284:tid 468] AH00364: Child: All worker threads have exited.
+[Sat Dec 13 00:50:33.301895 2025] [mpm_winnt:notice] [pid 11492:tid 452] AH00430: Parent: Child process 14284 exited successfully.
+[Sat Dec 13 00:52:32.496084 2025] [ssl:warn] [pid 16164:tid 496] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:52:32.498114 2025] [ssl:warn] [pid 16164:tid 496] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:52:32.498114 2025] [ssl:warn] [pid 16164:tid 496] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 00:52:32.499125 2025] [ssl:warn] [pid 16164:tid 496] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:52:32.500135 2025] [ssl:warn] [pid 16164:tid 496] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:52:32.500135 2025] [ssl:warn] [pid 16164:tid 496] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 00:52:32.532127 2025] [ssl:warn] [pid 16164:tid 496] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Dec 13 00:52:32.533154 2025] [ssl:warn] [pid 16164:tid 496] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:52:32.534186 2025] [ssl:warn] [pid 16164:tid 496] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:52:32.534186 2025] [ssl:warn] [pid 16164:tid 496] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 00:52:32.535287 2025] [ssl:warn] [pid 16164:tid 496] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:52:32.536303 2025] [ssl:warn] [pid 16164:tid 496] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:52:32.536303 2025] [ssl:warn] [pid 16164:tid 496] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 00:52:32.536813 2025] [mpm_winnt:notice] [pid 16164:tid 496] AH00455: Apache/2.4.66 (Win64) OpenSSL/3.6.0 configured -- resuming normal operations
+[Sat Dec 13 00:52:32.536813 2025] [mpm_winnt:notice] [pid 16164:tid 496] AH00456: Server built: Dec  6 2025 07:20:52
+[Sat Dec 13 00:52:32.536813 2025] [core:notice] [pid 16164:tid 496] AH00094: Command line: 'httpd.exe -d C:/Apache24-64 -d C:/Apache24-64'
+[Sat Dec 13 00:52:32.542674 2025] [mpm_winnt:notice] [pid 16164:tid 496] AH00418: Parent: Created child process 9108
+Apache server shutdown initiated...
+sl:warn] [pid 9108:tid 460] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:52:33.197323 2025] [ssl:warn] [pid 9108:tid 460] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:52:33.197323 2025] [ssl:warn] [pid 9108:tid 460] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 00:52:33.198824 2025] [ssl:warn] [pid 9108:tid 460] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:52:33.199825 2025] [ssl:warn] [pid 9108:tid 460] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:52:33.199825 2025] [ssl:warn] [pid 9108:tid 460] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 00:52:33.229717 2025] [ssl:warn] [pid 9108:tid 460] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Dec 13 00:52:33.230218 2025] [ssl:warn] [pid 9108:tid 460] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:52:33.231725 2025] [ssl:warn] [pid 9108:tid 460] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:52:33.231725 2025] [ssl:warn] [pid 9108:tid 460] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 00:52:33.232726 2025] [ssl:warn] [pid 9108:tid 460] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:52:33.233726 2025] [ssl:warn] [pid 9108:tid 460] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 00:52:33.233726 2025] [ssl:warn] [pid 9108:tid 460] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 00:52:33.237294 2025] [mpm_winnt:notice] [pid 9108:tid 460] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 13 01:00:45.124813 2025] [mpm_winnt:notice] [pid 16164:tid 496] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 13 01:00:47.125812 2025] [mpm_winnt:notice] [pid 9108:tid 460] AH00364: Child: All worker threads have exited.
+[Sat Dec 13 01:00:47.145186 2025] [mpm_winnt:notice] [pid 16164:tid 496] AH00430: Parent: Child process 9108 exited successfully.
+Starting the 'Apache2.4' service
+[Sat Dec 13 01:01:11.490256 2025] [mpm_winnt:crit] [pid 13304:tid 488] (OS 2)Не удается найти указанный файл.  : AH00378: Failed to start the 'Apache2.4' service
+[Sat Dec 13 01:01:28.212536 2025] [ssl:warn] [pid 4348:tid 436] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 01:01:28.214563 2025] [ssl:warn] [pid 4348:tid 436] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 01:01:28.214563 2025] [ssl:warn] [pid 4348:tid 436] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 01:01:28.247718 2025] [ssl:warn] [pid 4348:tid 436] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Dec 13 01:01:28.248228 2025] [ssl:warn] [pid 4348:tid 436] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 01:01:28.249782 2025] [ssl:warn] [pid 4348:tid 436] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 01:01:28.249782 2025] [ssl:warn] [pid 4348:tid 436] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 01:01:28.251318 2025] [mpm_winnt:notice] [pid 4348:tid 436] AH00455: Apache/2.4.66 (Win64) OpenSSL/3.6.0 configured -- resuming normal operations
+[Sat Dec 13 01:01:28.251318 2025] [mpm_winnt:notice] [pid 4348:tid 436] AH00456: Server built: Dec  6 2025 07:20:52
+[Sat Dec 13 01:01:28.251318 2025] [core:notice] [pid 4348:tid 436] AH00094: Command line: 'httpd.exe -d C:/Apache24-64 -d C:/Apache24-64'
+[Sat Dec 13 01:01:28.257364 2025] [mpm_winnt:notice] [pid 4348:tid 436] AH00418: Parent: Created child process 10048
+Apache server shutdown initiated...
+sl:warn] [pid 10048:tid 456] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 01:01:28.807299 2025] [ssl:warn] [pid 10048:tid 456] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 01:01:28.807299 2025] [ssl:warn] [pid 10048:tid 456] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 01:01:28.841124 2025] [ssl:warn] [pid 10048:tid 456] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Dec 13 01:01:28.842128 2025] [ssl:warn] [pid 10048:tid 456] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 01:01:28.843131 2025] [ssl:warn] [pid 10048:tid 456] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 01:01:28.843131 2025] [ssl:warn] [pid 10048:tid 456] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 01:01:28.847755 2025] [mpm_winnt:notice] [pid 10048:tid 456] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 13 01:07:22.160979 2025] [mpm_winnt:notice] [pid 4348:tid 436] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 13 01:07:24.162517 2025] [mpm_winnt:notice] [pid 10048:tid 456] AH00364: Child: All worker threads have exited.
+[Sat Dec 13 01:07:24.178897 2025] [mpm_winnt:notice] [pid 4348:tid 436] AH00430: Parent: Child process 10048 exited successfully.
+[Sat Dec 13 01:08:29.258162 2025] [ssl:warn] [pid 1124:tid 448] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 01:08:29.260213 2025] [ssl:warn] [pid 1124:tid 448] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 01:08:29.260720 2025] [ssl:warn] [pid 1124:tid 448] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 01:08:29.293624 2025] [ssl:warn] [pid 1124:tid 448] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Dec 13 01:08:29.294124 2025] [ssl:warn] [pid 1124:tid 448] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 01:08:29.295337 2025] [ssl:warn] [pid 1124:tid 448] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 01:08:29.295337 2025] [ssl:warn] [pid 1124:tid 448] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 01:08:29.297364 2025] [mpm_winnt:notice] [pid 1124:tid 448] AH00455: Apache/2.4.66 (Win64) OpenSSL/3.6.0 configured -- resuming normal operations
+[Sat Dec 13 01:08:29.297364 2025] [mpm_winnt:notice] [pid 1124:tid 448] AH00456: Server built: Dec  6 2025 07:20:52
+[Sat Dec 13 01:08:29.297364 2025] [core:notice] [pid 1124:tid 448] AH00094: Command line: 'httpd.exe -d C:/Apache24-64 -d C:/Apache24-64'
+[Sat Dec 13 01:08:29.303568 2025] [mpm_winnt:notice] [pid 1124:tid 448] AH00418: Parent: Created child process 19720
+[Sat Dec 13 01:08:29.853259 2025] [ssl:warn] [pid 19720:tid 456] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 01:08:29.855764 2025] [ssl:warn] [pid 19720:tid 456] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 01:08:29.855764 2025] [ssl:warn] [pid 19720:tid 456] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 01:08:29.887623 2025] [ssl:warn] [pid 19720:tid 456] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Dec 13 01:08:29.888624 2025] [ssl:warn] [pid 19720:tid 456] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 01:08:29.889625 2025] [ssl:warn] [pid 19720:tid 456] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 01:08:29.889625 2025] [ssl:warn] [pid 19720:tid 456] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 01:08:29.894547 2025] [mpm_winnt:notice] [pid 19720:tid 456] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 13 01:13:46.848975 2025] [auth_basic:error] [pid 19720:tid 1132] [client 127.0.0.1:51020] AH01617: user teacher1: authentication failure for "/docs/guide.md": Password Mismatch
+[Sat Dec 13 01:13:50.686409 2025] [auth_basic:error] [pid 19720:tid 1132] [client 127.0.0.1:51020] AH01618: user dsdsd not found: /docs/guide.md
+[Sat Dec 13 01:13:51.766541 2025] [auth_basic:error] [pid 19720:tid 1132] [client 127.0.0.1:51020] AH01618: user  not found: /docs/guide.md

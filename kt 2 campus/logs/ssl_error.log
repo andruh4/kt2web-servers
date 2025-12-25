@@ -1,0 +1,16 @@
+[Sat Dec 13 01:01:28.215580 2025] [ssl:warn] [pid 4348:tid 436] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 01:01:28.215580 2025] [ssl:warn] [pid 4348:tid 436] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 01:01:28.250813 2025] [ssl:warn] [pid 4348:tid 436] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 01:01:28.250813 2025] [ssl:warn] [pid 4348:tid 436] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 01:01:28.808300 2025] [ssl:warn] [pid 10048:tid 456] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 01:01:28.808300 2025] [ssl:warn] [pid 10048:tid 456] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 01:01:28.844132 2025] [ssl:warn] [pid 10048:tid 456] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 01:01:28.844132 2025] [ssl:warn] [pid 10048:tid 456] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 01:08:29.261734 2025] [ssl:warn] [pid 1124:tid 448] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 01:08:29.261734 2025] [ssl:warn] [pid 1124:tid 448] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 01:08:29.296857 2025] [ssl:warn] [pid 1124:tid 448] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 01:08:29.296857 2025] [ssl:warn] [pid 1124:tid 448] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 01:08:29.856765 2025] [ssl:warn] [pid 19720:tid 456] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 01:08:29.856765 2025] [ssl:warn] [pid 19720:tid 456] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 13 01:08:29.890626 2025] [ssl:warn] [pid 19720:tid 456] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 13 01:08:29.890626 2025] [ssl:warn] [pid 19720:tid 456] AH01909: campus.local:443:0 server certificate does NOT include an ID which matches the server name
